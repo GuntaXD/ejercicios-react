@@ -1,0 +1,29 @@
+{
+  "juegos": [
+    {
+      "id": 1,
+      "name": "Stardew valley",
+      "rating": "87"
+    },
+    {
+      "id": 2,
+      "name": "Noita",
+      "rating": "76"
+    },
+    {
+      "id": 3,
+      "name": "Minecraft",
+      "rating": "93"
+    },
+    {
+      "id": 4,
+      "name": "Factorio",
+      "rating": "90"
+    },
+    {
+      "id": 5,
+      "name": "Forager",
+      "rating": "78"
+    }
+  ]
+}
