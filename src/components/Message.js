@@ -2,6 +2,7 @@ import React from 'react'
 
 export const Message = ({msg , bgColor }) => {
     let style = {
+        height: "5rem",
         padding: "1rem",
         marginBottom: "1rem",
         textAlign: "center",
